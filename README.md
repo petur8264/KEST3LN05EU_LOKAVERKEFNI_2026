@@ -27,7 +27,7 @@ The project was completed in a VMware lab environment using a private internal n
 
 | Machine | Operating System | Hostname | Purpose |
 |---|---|---|---|
-| Server | Ubuntu Server | server1.ddp.is | Central management server |
+| Server | Ubuntu Desktop(acting as server) | server1.ddp.is | Central management server |
 | Client 1 | Linux Mint Debian | client1.ddp.is | Debian-based client |
 | Client 2 | Rocky Linux | client2.ddp.is | Red Hat-based client |
 
